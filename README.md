@@ -54,4 +54,4 @@ https://youtu.be/ULVu2VNM_54
 
 ## Author
 
-- Frontend Mentor - [@judgetoworld]
+- [@judgetoworld]
